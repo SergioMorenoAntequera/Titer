@@ -1,0 +1,72 @@
+
+/***************************************************
+****************** IZQUIERDA ***********************
+***************************************************/
+/* Resto de los botones */
+.mainIndexElement {
+    font-size: 20px;
+    color: white;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin-top: 8px;
+    margin-left: 1%;
+    -webkit-transition: 0.3s; /* Safari prior 6.1 */
+    transition: 0.3s;
+    display: inline-block;
+}   
+.mainIndexElement:hover {
+    color: #1da1f2;
+    background-color: #244053;
+    border-radius: 25px;
+}
+
+/* Boton de tweet */
+.mainIndexTweetElement {
+    color: white;
+    background-color: #1da1f2;
+    text-align: center;
+    border-radius: 100px;
+    
+    margin-top: 8px;
+    -webkit-transition: 0.3s; /* Safari prior 6.1 */
+    transition: 0.3s;
+    display: inline-block;
+}
+.mainIndexTweetElement:hover {
+    background-color: #1e93db;
+
+}
+
+/***************************************************
+******************* CENTRO ************************
+***************************************************/
+.mainTitle {
+    color: #1da1f2;
+    font-weight: bold;
+    font-size: 35px;
+}
+.subTitle {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 0px;
+}
+
+
+
+/***************************************************
+******************* DERECHA ************************
+***************************************************/
+#trendsCard {
+    width: 90%;
+    border: none;
+    z-index: 0;
+}
+.trendsCardBody {
+    padding: 6px 2px 6px 30px;
+}
+
+
+

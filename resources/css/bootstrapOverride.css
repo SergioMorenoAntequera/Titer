@@ -1,0 +1,90 @@
+/* Esta todo en verde por poner algo */
+
+/********* PRIMARY *********/
+.text-primary{
+    color: #1da1f2 !important;
+}
+.bg-primary {
+    background-color: #1da1f2 !important;
+}
+
+/********* SECONDARY *********/
+.text-secondary{
+    color: #0062cc !important;
+}
+.bg-secondary {
+    background-color: #0062cc !important;
+}
+
+/********* DANGER *********/
+.text-danger{
+    color: #e0245e !important;
+}
+.bg-danger{
+    background-color: #e0245e !important;
+}
+
+/********* WARNING *********/
+.text-warning{
+    color: #f79502 !important;
+}
+.bg-warning{
+    background-color: #f79502 !important;
+}
+
+/********* SUCCESS *********/
+.text-success{
+    color: #25945c !important;
+}
+.bg-success{
+    background-color: #25945c !important;
+}
+
+/********* light *********/
+.text-light{
+    color: #868c98 !important;
+}
+.bg-light{
+    background-color:#868c98 !important;
+}
+.border-light{
+    border-color:#868c98 !important;
+}
+
+
+/********* LIGHTDARK *********/
+.text-lightDark{
+    color: #253341 !important;
+}
+.bg-lightDark{
+    background-color: #253341 !important;
+}
+.border-lightDark{
+    border-color: #253341 !important;
+}
+
+/********* LIGHTDARK2 *********/
+.text-lightDark2{
+    color: #192734 !important;
+}
+.bg-lightDark2{
+    background-color: #192734 !important;
+}
+
+
+
+
+/********* DARK *********/
+.text-dark{
+    color: #15202b !important;
+}
+.bg-dark{
+    background-color:#15202b !important;
+}
+
+
+/*
+    SIN MODIFICAR:
+    - info
+    - white
+*/
