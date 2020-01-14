@@ -1,7 +1,7 @@
-# Guía de Bootstrap 4.3
+# Bootstrap Guide 4.3
 
-_Desarollo de aplicaciones web responsivas_
+_Responsive webpages tool example_
 
-## Ver en linea 🌍
+## Look at this webpage online 🌍
 
 _https://sergiomorenoantequera.github.io/Bootstrap4-Guide/_
