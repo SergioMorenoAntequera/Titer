@@ -13,29 +13,30 @@
         <div class="container-fluid">
             <div class="row">
                 <!-- Columna izquierda -->
-                <div class="col-2 col-sm-2 col-lg-1 col-xl-3 bg-primary">
-                    hola
+                <div class="col-2 col-sm-2 col-lg-1 col-xl-3 order-xl-2 bg-primary">
+                    Columna 1
                 </div>
-                <!-- Columna centro -->
-                <div class="col-10 col-sm-8 col-lg-7 col-xl-6 bg-secondary">
-                    hola
-                    <div style="height: 300px;" class="row bg-danger justify-content-center align-items-center">
-                        <div>
-                            <div class="col-auto bg-light">
-                                aaaaaa
-                            </div>
-                            <div class="col-auto bg-warning">
-                                bbbbbb
-                            </div>
-                            <div class="col-auto bg-light">
-                                cccccc
-                            </div>
-                        </div>
-                    </div>
+                <!-- Columna centro --> 
+                <div class="offset-1 col-10 col-sm-8 col-lg-7 col-xl-5 order-1 bg-secondary">
+                    Columna importante
                 </div>
                 <!-- Columna derecha -->
-                <div class="col col-sm-2 col-lg-4 col-xl-3 bg-primary">
-                    tal
+                <div class="offset-1 col col-sm-2 col-lg-4 col-xl-2 order-3 bg-primary">
+                    Columna 2
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="row bg-primary text-white">
+                <div class="col col-md-12 col-lg-4 bg-danger order-md-2 order-lg-1  ">
+                   Columna 1 
+                </div>
+                <div class="px-3 col col-md-12 col-lg-4 bg-warning order-md-1 order-lg-2">
+                    Columna importante
+                </div>
+                <div class="col col-md-12 col-lg-4 bg-danger order-md-3 order-lg-3">
+                    Columna  2
                 </div>
             </div>
         </div>
